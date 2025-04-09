@@ -19,7 +19,7 @@
 * An IDE - [Eclipse](https://eclipseide.org/), [Visual Studio Code](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Gradle](https://gradle.org/install/)
 * [BellSoft Liberica JDK version 17](https://bell-sw.com/pages/downloads/#jdk-17-lts)
-* [JUnit 5](https://junit.org/junit5/)
+* [JUnit 5](https://junit.org/junit5/) 
 
 ## Running this project
 * Install docker desktop
